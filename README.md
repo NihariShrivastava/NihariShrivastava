@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m Nihari Shrivastava, a B.Tech student in Electronics and Telecommunication Engineering at Madhav Institute of Technology and Science, Gwalior (CGPA: 9.05). I’m passionate about software development, AI-powered systems, and modern web technologies, and I enjoy building scalable solutions that combine clean design with intelligent functionality.<br><br>
-I have hands-on experience as a Frontend Developer Intern, where I worked with React, JavaScript, HTML, CSS, and Bootstrap to create responsive, performance-optimized, and user-friendly interfaces.<br><br>
+I have hands-on experience as a Frontend Developer Intern, where I worked with React, JavaScript, HTML, CSS, and Bootstrap to create responsive, performance-optimized, and user-friendly interfaces.<br>
 Alongside development, I have a strong foundation in Data Structures and Algorithms in Java, enabling me to write efficient and scalable code. I also actively take up leadership and coordination roles, strengthening my communication, teamwork, and organizational skills.<br><br>
 
 
